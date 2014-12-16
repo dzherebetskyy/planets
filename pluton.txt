@@ -2,5 +2,10 @@ Pluton is very far from the Sun.
 It is very cold.
 And also dark..
 
+<<<<<<< HEAD
 
 Change only on desktop
+=======
+Change only on laptop
+
+>>>>>>> 53bbcd8a9786de67fa2ffc8f8d0e4893d141a2d7
