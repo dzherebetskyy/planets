@@ -1,2 +1,3 @@
-Mars is covered by the red dusti.
-mars has 2 moons
+Mars is covered by the red dust.
+mars has 2 moons.
+Minimum temperature is -142C.
